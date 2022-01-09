@@ -47,7 +47,7 @@ używających biblioteki ppx_bin_prot.
 
 %package devel
 Summary:	Generation of bin_prot readers and writers from types - development part
-Summary(pl.UTF-8):	Generowanie funkcji odczytujących i zapisujących bin_prot z typów - cześć programistyczna
+Summary(pl.UTF-8):	Generowanie funkcji odczytujących i zapisujących bin_prot z typów - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
